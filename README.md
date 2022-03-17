@@ -1,2 +1,2 @@
 # detection-reconstruction
-Object Recognition and Reconstruction was explored in floor plan SFPI Dataset. First the dataset must be downloaded and save it to a directory to run the .ipynb file. Here is the link of our floor plan dataset https://cloud.dfki.de/owncloud/index.php/s/mkg5HBBntRbNo8X 
+Object Recognition and Reconstruction was explored in floor plan SFPI Dataset. First the dataset must be downloaded and save it to a directory to run the .ipynb file. Here is the link of our floor plan dataset https://cloud.dfki.de/owncloud/index.php/s/mkg5HBBntRbNo8X. If there is any problem to open the notebook file please go to the link https://nbviewer.org/ and paste https://github.com/akhi527/detection-reconstruction 
